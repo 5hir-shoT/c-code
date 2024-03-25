@@ -22,6 +22,6 @@ int main()
                 break;
 
         default:printf("Wrong choice");
-    }    
+    }
     return 0;
 }

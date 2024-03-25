@@ -5,6 +5,6 @@ int main()
     a=4;
     b=5;
     c=a*b;
-    printf("product is=%d",c);
+    printf("product is =%d",c);
     return 0;
 }

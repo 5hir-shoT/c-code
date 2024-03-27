@@ -14,9 +14,9 @@ int main()
         n = n / 10;
     }
     firstDigit = n;
-    
+
     //Calculate sum of first and last digit
     sum = firstDigit + lastDigit;
     printf("Sum of first and last digit = %d", sum);
     return 0;
-}
+} 

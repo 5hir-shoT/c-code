@@ -4,7 +4,7 @@ int main()
     int n,num1=0,num2=1,nextnum;
     printf("Enter the number of Fibonacci numbers to generate=");
     scanf("%d",&n);
-    printf("Fibonacci series:");
+    printf("\nFibonacci series:");
     for(int i=1;i<=n;++i)
     {
         printf("%d ",num1);

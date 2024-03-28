@@ -17,3 +17,15 @@ int main()
     }
     return 0;
 }
+
+/*
+
+output: if rows=5
+
+A
+AB
+ABC
+ABCD
+ABCDE
+
+*/

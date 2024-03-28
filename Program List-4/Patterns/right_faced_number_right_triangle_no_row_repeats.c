@@ -17,3 +17,14 @@ int main()
     }
     return 0;
 }
+
+/*
+
+output: if rows=5
+    1
+   12
+  123
+ 1234
+12345
+
+*/

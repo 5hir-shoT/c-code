@@ -15,10 +15,14 @@ int main()
     return 0;
 }
 
-/**output if rows=5
- * *
- * **
- * ***
- * ****
- * *****
+/*
+
+output if rows=5
+
+  *
+  **
+  ***
+  ****
+  *****
+
 */

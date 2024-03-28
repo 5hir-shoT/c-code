@@ -14,10 +14,13 @@ int main()
     }
     return 0;
 }
-/* output: if rows=5
+/* 
+
+output: if rows=5
     1
     22
     333
     4444
     55555
+    
 */

@@ -15,7 +15,7 @@ int main()
             else  
             printf(" ");  
         }  
-        for (j = rows; j >= 1; j--)  
+        for (j = rows-1; j >= 1; j--)  
         {  
             if(j <= i)  
             printf ("*");  
@@ -28,12 +28,11 @@ int main()
 
 /*
 
-output: if rows=5
+output: if rows=4
 
-**********
-****  ****
-***    ***
-**      **
-*        *
+*******
+*** ***
+**   **
+*     *
 
 */

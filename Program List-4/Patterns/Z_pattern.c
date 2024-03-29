@@ -2,7 +2,7 @@
 int main()
 {
     int i,rows,j;
-    printf("\t enter value of rows=");
+    printf("enter value of rows=");
     scanf("%d",&rows);
     printf("\n\n");
     for(i=0;i<rows;i++)
@@ -22,3 +22,16 @@ int main()
     }
     return 0;
 }
+
+/*
+
+output: if rows=6
+
+******
+    * 
+   *  
+  *   
+ *    
+******
+
+*/

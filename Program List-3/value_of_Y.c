@@ -1,29 +1,22 @@
 #include<stdio.h>
+#include<math.h>
 int main ()
 {
-    int n,x,y;
+    int n;
+    float x,y;
     printf("enter x and n =\n");
-    scanf("%d%d",&x,&n);
+    scanf("%f%d",&x,&n);
     switch(n)
     {
-        case 1: y=1+(x*2);
-                printf("answer is %d=", y);
+        case 1: y=1.0+pow(x,2.0);
                 break;
-        case 2: y=1+(x/n);
-                printf("answer is %d=", y);
+        case 2: y=1.0+(x/n);
                 break;
-        case 3: y=1+(2*x);
-                printf("answer is %d=", y);
+        case 3: y=1.0+(2.0*x);
                 break;
-        case 0:
-        {        
-            switch(n>0 || n<1)
-            {
-                case 1: y=1+(n*x);
-                        break;
-                case 0: printf("ERROR");
-                        break;
-            }
-         break;
+        default:y = 1 + n * x;
+                break;
     }
+    printf("\n Value of y(x,n) = %f",y);
+    return 0;
 }

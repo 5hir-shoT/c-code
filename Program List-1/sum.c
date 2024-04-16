@@ -8,3 +8,11 @@ int main()
     printf("sum is =%d",c);
     return 0;
 }
+
+/*
+
+output:
+
+sum is =8
+
+*/

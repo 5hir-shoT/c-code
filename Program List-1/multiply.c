@@ -8,3 +8,11 @@ int main()
     printf("product is =%d",c);
     return 0;
 }
+
+/*
+
+output:
+
+product is =20
+
+*/

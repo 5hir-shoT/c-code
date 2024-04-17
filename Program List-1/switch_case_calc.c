@@ -5,7 +5,7 @@ int main()
     int t;
     printf("Enter the 2 values:\n");
     scanf("%f%f", &a,&b);
-    printf("Press:\n 1= addition\n2=subtraction\n3=multiplication\n4=division\n");
+    printf("Press:\n1= addition\n2=subtraction\n3=multiplication\n4=division\n");
     scanf("%d",&t);
     switch(t)
     {
@@ -25,3 +25,20 @@ int main()
     }
     return 0;
 }
+
+/*
+
+output:
+
+Enter the 2 values:
+2
+2
+Press:
+1= addition
+2=subtraction
+3=multiplication
+4=division
+1
+Sum is= 4.000000
+
+*/

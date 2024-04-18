@@ -12,3 +12,16 @@ int main()
     printf("Compound interest is=%f\n",ci);
     return 0;
 }
+
+/*
+
+output:
+
+Enter Principal,rate and time=
+8  
+2
+2
+Simple interest is=0.320000
+Compound interest is=0.323200
+
+*/

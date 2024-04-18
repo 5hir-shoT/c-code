@@ -8,3 +8,16 @@ int main()
     printf("\nThe largest number between %d, %d and %d is= %d",a,b,c,max);
     return 0;
 }
+
+/*
+
+output:
+
+enter 3 numbers=
+3
+4
+5
+
+The largest number between 3, 4 and 5 is= 5
+
+*/

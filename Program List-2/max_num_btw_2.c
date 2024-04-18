@@ -14,3 +14,15 @@ int main()
     }
     return 0;
 }
+
+/*
+
+output:
+
+Enter 2 numbers=
+5
+4
+
+The first number is MAXimum
+
+*/

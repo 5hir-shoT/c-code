@@ -10,3 +10,16 @@ int main()
     printf("\nsize of the floating data type is= %d",sizeof(float)); //Displaying the size of floating data type.
     return 0;
 }
+
+/*
+
+output:
+
+Enter the data=3.0
+
+size of the variable x is= 4
+size of the integer data type is= 4
+size of the character data type is= 1
+size of the floating data type is= 4
+
+*/

@@ -11,3 +11,15 @@ int main()
     printf("roots are %f and %f",root1,root2);
     return 0;
 }
+
+/*
+
+output:
+
+enter coefficients a,b and c=
+3
+11
+10
+roots are -1.666667 and -2.000000
+
+*/

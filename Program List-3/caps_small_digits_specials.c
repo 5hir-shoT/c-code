@@ -22,3 +22,31 @@ int main()
     }
     return 0;
 }
+
+/*
+
+output:
+
+Enter any character=1
+
+Entered character is Digit
+
+*****************************************
+
+Enter any character=q
+
+Entered character is a small letter
+
+*****************************************
+
+Enter any character=Q
+
+Entered character is a capital letter
+
+*****************************************
+
+Enter any character=/
+
+Entered character is a special character
+
+*/

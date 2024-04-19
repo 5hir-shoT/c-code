@@ -21,3 +21,17 @@ int main()
     }
     return 0;
 }
+
+/*
+
+output:
+
+enter a number=153
+Armstrong number
+
+*******************
+
+enter a number=351
+Not Armstrong Number
+
+*/

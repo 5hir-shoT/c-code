@@ -23,3 +23,21 @@ int main ()
          break;
     }
 }
+
+/*
+
+output:
+
+enter a number=
+8
+Positive number
+---------------------------
+enter a number=
+-8
+Negative number
+---------------------------
+enter a number=
+0
+Zero number
+
+*/

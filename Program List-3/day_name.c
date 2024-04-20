@@ -26,3 +26,19 @@ int main()
     }
     return 0;
 }
+
+/*
+
+output:
+
+enter day number=
+1
+Monday
+
+*******************
+
+enter day number=
+8
+Wrong choice
+
+*/

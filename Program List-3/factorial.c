@@ -9,3 +9,12 @@ int main()
     printf("The factorial of %d is=%d",num,f);
     return 0;
 }
+
+/*
+
+output:
+
+enter a number=7
+The factorial of 7 is=5040
+
+*/

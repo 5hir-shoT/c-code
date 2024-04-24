@@ -16,3 +16,12 @@ int main()
     printf("\n");
     return 0;
 }
+
+/*
+
+output:
+
+Enter an integer number: 89
+Reverse of 89 is: 98
+
+*/

@@ -14,3 +14,12 @@ int main()
     printf("Sum of digits of %d is: %d\n",num,sum);
     return 0;
 }
+
+/*
+
+output:
+
+Enter an integer number: 24
+Sum of digits of 24 is: 6
+
+*/

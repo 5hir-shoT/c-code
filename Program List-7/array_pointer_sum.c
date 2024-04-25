@@ -23,3 +23,18 @@ int main()
     printf("The sum of all the elements of the array is: %d\n",totalSum);
     return 0;
 }
+
+/*
+
+output:
+
+Enter the size of the array: 5
+Enter 5 elements of the array:
+1
+2
+3
+4
+5
+The sum of all the elements of the array is: 15
+
+*/

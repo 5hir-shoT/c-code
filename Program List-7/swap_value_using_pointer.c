@@ -17,3 +17,14 @@ int main()
     printf("After swapping: num1=%d, num2=%d\n",num1,num2);
     return 0;
 }
+
+/*
+
+output:
+
+Enter the first number: 1
+Enter the second number: 2
+Before swapping: num1=1,num2=2
+After swapping: num1=2, num2=1
+
+*/

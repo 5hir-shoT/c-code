@@ -2,26 +2,31 @@
 int main ()
 {
     int n;
-    printf("enter a number=\n");
-    scanf("%d",&n);
-    switch(n>0)
+    char ch;
+    do
     {
-        case 1 :
-        printf("Positive number ");
-        break;
-        case 0:
-        switch(n<0)
+        printf("\nenter a number= ");
+        scanf("%d",&n);
+        switch(n>0)
         {
-            case 1:
-            printf("Negative number ");
-            break;
+            case 1 : printf("Positive number");
+                     break;
+
+            case 0: switch(n<0)
+                    {
+                        case 1: printf("Negative number");
+                                break;
              
-             case 0:
-             printf("Zero number  ");
-            
+                        case 0: printf("Zero number");
+                    }
+                    break;
         }
-         break;
-    }
+        printf("\nDo you wish to continue? (Y/N)\n");
+        scanf("%c",&ch);
+        scanf("%c",&ch);
+        printf("\n********************************");
+    }while(ch=='Y' || ch=='y');
+    return 0;
 }
 
 /*

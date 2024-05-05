@@ -30,3 +30,12 @@ int main()
     }
     return 0;
 }
+
+/*
+
+output:
+
+Input marks=80
+Grade A
+
+*/

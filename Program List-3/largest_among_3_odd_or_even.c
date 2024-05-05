@@ -15,3 +15,15 @@ int main()
     }
     return 0;
 }
+
+/*
+
+output:
+
+Enter 3 numbers=
+3
+6
+8
+max number 8 is EVEN
+
+*/

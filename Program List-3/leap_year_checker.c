@@ -14,3 +14,13 @@ int main()
     }
     return 0;
 }
+
+/*
+
+output:
+
+Enter a year=
+2020
+Leap year
+
+*/

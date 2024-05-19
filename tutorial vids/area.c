@@ -10,3 +10,12 @@ int main()
     printf("Area of the circle having radius %d is: %f",r,ar);
     return 0;
 }
+
+/*
+
+output:
+
+Enter radius=2
+Area of the circle having radius 2 is: 12.560000
+
+*/

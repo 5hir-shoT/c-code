@@ -22,3 +22,32 @@ int main () {
 	}
 	return 0;
 }
+
+/*
+
+output:
+
+Enter coefficients of (a,b&c) of quadratic equation (ax^2+bx+c):3
+11
+10
+Roots are real and different:-1.666667 and -2.000000
+
+******************************************************************
+
+Enter coefficients of (a,b&c) of quadratic equation (ax^2+bx+c):
+1
+-4
+4
+Roots are real and same:2.000000 and 2.000000
+
+******************************************************************
+
+Enter coefficients of (a,b&c) of quadratic equation (ax^2+bx+c):
+3
+10
+11
+Roots are imaginary:-1.666667+0.942809i & -1.666667-0.942809i
+
+##################################################################
+
+*/

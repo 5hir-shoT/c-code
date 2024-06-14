@@ -9,3 +9,15 @@ int main()
     else
     printf("FAIL\n");
 }
+
+/*
+
+output:
+
+FAIL
+FAIL
+FAIL
+FAIL
+FAIL
+
+*/

@@ -36,6 +36,8 @@ int main() {
     return 0;
 }
 
+
+
 /*  
     Output:
     Enter the number of elements: 5

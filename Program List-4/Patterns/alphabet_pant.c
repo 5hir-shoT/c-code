@@ -41,6 +41,4 @@ ABC       CBA
 AB         BA
 A           A
 
-
-
 */
